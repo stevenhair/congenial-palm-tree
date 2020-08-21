@@ -4,7 +4,7 @@
 
 ## Description
 
-A reproduction of a Nest.js bug
+A reproduction of https://github.com/nestjs/nest/issues/5306
 
 ## Installation
 
